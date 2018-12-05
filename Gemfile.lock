@@ -161,6 +161,8 @@ GEM
     jekyll-theme-hacker (0.1.1)
       jekyll (~> 3.5)
       jekyll-seo-tag (~> 2.0)
+    jekyll-theme-hydejack (8.1.1)
+      jekyll (~> 3.7)
     jekyll-theme-leap-day (0.1.1)
       jekyll (~> 3.5)
       jekyll-seo-tag (~> 2.0)
@@ -272,6 +274,7 @@ DEPENDENCIES
   jekyll
   jekyll-admin
   jekyll-feed
+  jekyll-theme-hydejack
   minima
   solar-flair (~> 0.3.0)
   tzinfo-data

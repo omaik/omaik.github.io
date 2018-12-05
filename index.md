@@ -1,4 +1,6 @@
 ---
+title: Home
+permalink: /
 ---
 
-### Something awesom goes here....
+## Something awesome will go here
